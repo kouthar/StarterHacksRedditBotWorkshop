@@ -1,9 +1,6 @@
 # Creating a Reddit Bot
 ## Workshop presented at StarterHacks
 
-### Slides
-
-[Workshop: Making a Reddit Bot.pdf]()
 
 ### Relevant Resources
 
