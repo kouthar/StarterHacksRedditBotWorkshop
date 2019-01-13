@@ -9,5 +9,5 @@
 * [Reddit](reddit.com)
 
 
-
+Note: Hyperlinks in the pdf of the workshop slides can be accessed by downloading the pdf.
  
